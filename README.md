@@ -5,13 +5,16 @@
 ## 📸 Скриншоты
 
 ### 1. Открытый сайт на GitHub Pages
-![Site](site.png)
+<img width="1522" height="715" alt="Снимок экрана 2026-10-07 110430" src="https://github.com/user-attachments/assets/684383ea-01fc-4dad-8939-940aca9bc1d6" />
+
 
 ### 2. GitHub Actions — успешный деплой
-![Actions](actions.png)
+<img width="1720" height="691" alt="Снимок экрана 2026-10-07 110401" src="https://github.com/user-attachments/assets/eba7ae35-9776-4cd6-a651-9112e06cf583" />
+
 
 ### 3. Настройки Pages (Source: GitHub Actions)
-![Pages Settings](pages-settings.png)
+<img width="1596" height="983" alt="Снимок экрана 2026-10-07 110440" src="https://github.com/user-attachments/assets/94a09f11-98ff-4cba-b7bc-6be6118a7e22" />
+
 
 ## 🌐 Сайт
 
